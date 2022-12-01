@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+About Me:
+Hello, my name is Karstyn Lundmark. I aspire to be some form of White Hat Hacker, im not entirely sure on where the end lies on this path for where I want to be exactly. But I plan on making it to the end, regardless of where that is.
 <!--
 **KarstynL/KarstynL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
